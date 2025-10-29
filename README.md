@@ -22,14 +22,4 @@ Una aplicación sencilla creada con **Python** y **Tkinter** que permite calcula
 
 - **Python 3.x**
 - **Tkinter** (interfaz gráfica)
-- **Pillow (PIL)** para manejo de imágenes
-
----
-
-## 🖼️ Vista previa
-
-_(Agrega aquí una imagen o gif de tu app funcionando si quieres)_
-
-Ejemplo:
-```markdown
-![App Preview](./preview.png)
+- **Pillow (PIL)** para manejo de imagenes
